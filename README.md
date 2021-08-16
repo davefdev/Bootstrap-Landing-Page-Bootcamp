@@ -4,5 +4,5 @@
 
 I followed Brad Traversy's bootstrap tutorial.
 
-Contains cards, accordian, forms and more.
+Contains cards, accordian, forms, modals, and more.
 
