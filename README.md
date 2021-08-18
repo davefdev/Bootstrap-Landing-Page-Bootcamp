@@ -2,7 +2,7 @@
 
 > Simple landing page website for a pretend bootcamp
 
-I followed Brad Traversy's bootstrap tutorial.
+A landing page made in bootstrap (from Brad Traversy).
 
 Contains cards, accordian, forms, modals, and more.
 
